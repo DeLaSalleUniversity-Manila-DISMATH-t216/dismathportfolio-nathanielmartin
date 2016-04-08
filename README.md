@@ -31,3 +31,25 @@
 *We discussed about our project where we will use MIT App Inventor
 *We were introduced to Set Theory and Set Identities
 *We finally discussed about Cardinality which is the number of elements in a set
+
+#Week 8
+*We were introduced to algorithms
+*I was finally able to understand more about looping and codes
+
+#Week 9
+*We learned more about algorithms
+*We were taught how to use the algorithms step-by-step
+
+#Week 10
+*We were introduced to the growth of functions using Using Big-O, Big-Ω and Big-ϴ
+*We were also taught Time Complexity in Algorithm, and Division and Modulo Operator
+
+#Week 11
+*Holy Week was fun
+
+#Week 12
+*We were introduced to the Final Project
+*We learned about graphs and the difference between programming graphs and mathematical graphs
+
+#Week 13
+*We discussed more about the graphs and learned about trees and model computation
